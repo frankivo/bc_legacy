@@ -1,0 +1,850 @@
+<site version="3.0"><css/><components/><page id="p183840218" pageindex="0" name="index" pp="0" cp="0"><body backgroundcolor="#000000" bgimage="" bgpreview="" bgfixed="fixed" bgsoundloop="-1" generator="0" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="0" bgoutput="" bgsoutput=""><Component type="5" id="nav1" zorder="0" filename="nav183910578" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="65535" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="C:\Users\Gebruiker\Documents\Web Page Maker\Navbar\cc01in.gif" mouseoverimage="C:\Users\Gebruiker\Documents\Web Page Maker\Navbar\cc01over.gif" mouseoversound="" navtext0="Home" navstate0="0" navtext1="Contributie" navstate1="0" navtext2="Bestuur" navurl2="page://p192751140" navtarget2="iFrame1" navstate2="0" navtext3="inschrijfformulier" navtarget3="iFrame1" navstate3="0" navcount="9" width="1260" height="26" preview="C:\Users\Gebruiker\AppData\Local\Temp\Web Page Maker\docQ7TMJ\NavU6P08" left="256" top="316" navtext4="speeltijden" navstate4="0" fp="0" navurl3="http://docs.google.com/forms/d/1qqVMGai_ZWelB0XN-Zne0-f9M8MAx7g73UIJnO3Alk0/viewform#iFrame1" navtext5="spelregels" navstate5="0" navurl5="page://p105035078#iFrame1" lock="0" exportfilename="images/nav183910578" exportsound="" navtext6="waar vind u ons" navurl6="https://www.google.nl/maps/place/De+Spont/@52.9882547,6.9548563,17z/data=!3m1!4b1!4m2!3m1!1s0x47b7dac8c7c08831:0x886103bb4899817a" navstate6="0" navurl0="page://p187492015#iFrame1" navtarget0="iFrame1" navurl4="page://p190473906#iFrame1" navtarget4="iFrame1" navtext7="55 +" navurl7="page://p190226578#iFrame1" navtarget7="iFrame1" navstate7="0" navurl1="page://p105468109" navtarget1="iFrame1" navtarget5="iFrame1" navtext8="jeugd" navurl8="page://p108288421" navtarget8="iFrame1" navstate8="0"/><Component type="9" id="hr1" zorder="1" filename="hr184113703" hrsize="2" width="1152" height="17" left="263" top="55"/><Component type="18" id="iFrame1" zorder="2" filename="iFrame184202625" image1="C:\Program Files (x86)\Web Page Maker\Component\arrow_up.gif" image2="C:\Program Files (x86)\Web Page Maker\Component\arrow_down.gif" image3="" image4="" auto="1" direction="1" scroll="yes" frameborder="1" frametype="0" src="p187492015" width="1209" height="758" left="261" top="345" swidth="16" sheight="16" lock="0" subfolder="images/" selected="1"/><Component type="19" id="art1" zorder="3" filename="art185525531" Alpha="100" Blur="0" Noise="0" Spray="0" Angle="0" Outline="0" HorzMirror="0" VertMirror="0" Shadow="1" ShadowAlpha="70" ShadowBlur="100" ShadowColor="16776960" ShadowOffsetX="3" ShadowOffsetY="1" Gradual="1" GradualStyle="3" GradualStartColor="16744448" GradualEndColor="16776960" Texture="0" TextureMode="0" fontname="Tahoma" fontsize="72" fontcolor="-16777208" fontstyle="0" textbgcolor="16777215" text=" Badminton club Stadskanaal" width="1238" height="119" previewfile="C:\Users\Gebruiker\AppData\Local\Temp\Web Page Maker\docQ7TMJ\arttextR6QJ0.gif" left="228" top="69" fp="0" exportfilename="images/art185525531.gif"/><Component type="3" id="image2" zorder="4" filename="image189895390" left="47" top="332" width="132" height="135" originwidth="588" originheight="601" src="D:\Documenten\clipart\mailbox-png-hi.png" previewfile="D:\Documenten\clipart\mailbox-png-hi.png" linkurl="mailto:meinkoni@ziggo.nl" lp="0" thumbname="thumb198932921" resamplename="img198932921" exportfilename="images/mailbox-png-hi.png"/><Component type="2" id="text1" zorder="5" filename="text193527984" width="203" height="274" html="" left="20" top="483" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" style="font-size:19px;"&gt;Bc Stadskanaal&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" style="font-size:19px;"&gt;Secr M Koning&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" style="font-size:19px;"&gt;W.H.Bosgrastraat 123&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" style="font-size:19px;"&gt;9665PJ Oude pekela&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" style="font-size:19px;"&gt;Tel 0597675099&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" class="ws14"&gt;Bc Stadskanaal&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" class="ws14"&gt;Secr M Koning&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" class="ws14"&gt;W.H.Bosgrastraat 123&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" class="ws14"&gt;9665PJ Oude pekela&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Bookman Old Style" class="ws14"&gt;Tel 0597675099&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUJvb2ttYW4gT2xkIFN0eWxlBFNpemUCDgVDb2xvcgcH
+Y2xXaGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNl
+bnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQH
+CHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0
+aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVy
+bnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyA1IDAgMCAwIDANCkJjIFN0
+YWRza2FuYWFsDQpTZWNyIE0gS29uaW5nDQpXLkguQm9zZ3Jhc3RyYWF0IDEyMw0KOTY2NVBKIE91
+ZGUgcGVrZWxhDQpUZWwgMDU5NzY3NTA5OQ0K
+</rvf></Component><Component type="2" id="text8" zorder="6" filename="text198038328" width="150" height="90" html="Double click to edit text" left="91" top="930"/><Component type="3" id="image1" zorder="7" filename="image101472453" left="16" top="660" width="220" height="99" originwidth="220" originheight="82" src="D:\Documenten\bcs2\de spont.JPG" previewfile="D:\Documenten\bcs2\de spont.JPG" fp="0" thumbname="thumb857328" resamplename="img857343" exportfilename="images/de spont.JPG"/><Component type="3" id="image3" zorder="8" filename="image102646203" left="267" top="177" width="1197" height="137" originwidth="1861" originheight="321" src="D:\Documenten\bcs2\club van 25.JPG" previewfile="D:\Documenten\bcs2\club van 25.JPG" lock="1" thumbname="thumb857375" resamplename="img857390" exportfilename="images/club van 25.JPG"/><Component type="3" id="image4" zorder="9" filename="image102761359" left="679" top="255" width="97" height="29" originwidth="117" originheight="46" src="D:\Documenten\bcs2\dion 50.JPG" previewfile="D:\Documenten\bcs2\dion 50.JPG" thumbname="thumb857421" resamplename="img857437" exportfilename="images/dion 50.JPG"/><Component type="3" id="image5" zorder="10" filename="image102790546" left="951" top="255" width="93" height="25" originwidth="588" originheight="240" src="D:\Documenten\bcs2\jalving.JPG" previewfile="D:\Documenten\bcs2\jalving.JPG" thumbname="thumb857468" resamplename="img857484" exportfilename="images/jalving.JPG"/><Component type="3" id="image6" zorder="11" filename="image102818921" left="595" top="254" width="83" height="25" originwidth="391" originheight="251" src="D:\Documenten\bcs2\vint holt.JPG" previewfile="D:\Documenten\bcs2\vint holt.JPG" thumbname="thumb857515" resamplename="img857531" exportfilename="images/vint holt.JPG"/><Component type="3" id="image7" zorder="12" filename="image102858812" left="685" top="232" width="92" height="22" originwidth="110" originheight="41" src="D:\Documenten\bcs2\sanne.JPG" previewfile="D:\Documenten\bcs2\sanne.JPG" thumbname="thumb857562" resamplename="img857578" exportfilename="images/sanne.JPG"/><Component type="3" id="image8" zorder="13" filename="image102899203" left="20" top="233" width="175" height="60" originwidth="456" originheight="166" src="D:\Documenten\bcs2\stichting wildervank fonds.PNG" previewfile="D:\Documenten\bcs2\stichting wildervank fonds.PNG" thumbname="thumb857609" resamplename="img857625" exportfilename="images/stichting wildervank fonds.PNG"/><Component type="3" id="image9" zorder="14" filename="image103223250" left="314" top="263" width="62" height="19" originwidth="115" originheight="35" src="D:\Documenten\bcs2\Hans.JPG" previewfile="D:\Documenten\bcs2\Hans.JPG" thumbname="thumb857656" resamplename="img857671" exportfilename="images/Hans.JPG"/><Component type="2" id="text2" zorder="15" filename="text109194234" width="241" height="145" html="" left="21" top="71" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Opgericht 1 oktober 1969&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Koninklijke goedkeuring 17 juli 1972&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;RABO Bank stadskanaal&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Giro nr RABO Bank 810818&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Rek nr 360720102&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Penn meester BCS martin van der Poll&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Opgericht 1 oktober 1969&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Koninklijke goedkeuring 17 juli 1972&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;RABO Bank stadskanaal&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Giro nr RABO Bank 810818&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Rek nr 360720102&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS"&gt;Penn meester BCS martin van der Poll&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr/AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBUNvbG9yBwhjbFllbGxv
+dwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJp
+Z2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsN
+cnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyA2IDAgMCAwIDANCk9wZ2VyaWNodCAx
+IG9rdG9iZXIgMTk2OQ0KS29uaW5rbGlqa2UgZ29lZGtldXJpbmcgMTcganVsaSAxOTcyDQpSQUJP
+IEJhbmsgc3RhZHNrYW5hYWwNCkdpcm8gbnIgUkFCTyBCYW5rIDgxMDgxOA0KUmVrIG5yIDM2MDcy
+MDEwMg0KUGVubiBtZWVzdGVyIEJDUyBtYXJ0aW4gdmFuIGRlciBQb2xsICANCg==
+</rvf></Component><Component type="3" id="image10" zorder="16" filename="image178677375" left="26" top="812" width="193" height="141" originwidth="193" originheight="141" src="D:\Documenten\bcs2\header-logo3.png" previewfile="D:\Documenten\bcs2\header-logo3.png" thumbname="thumb857703" resamplename="img857718" exportfilename="images/header-logo3.png"/></body></page><page id="p187492015" pageindex="1" name="eerste pagina" pp="0" cp="0"><body bgimage="D:\Documenten\clipart\Badminton Wallpapers 04.jpg" bgpreview="D:\Documenten\clipart\Badminton Wallpapers 04.jpg" bgfixed="" bgsoundloop="-1" bgp="0" bgoutput="images/Badminton Wallpapers 04.jpg" bgsoutput="" generator="0" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0"><Component type="2" id="text1" zorder="0" filename="text102435046" left="1" top="5" width="874" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" height="1718" fp="0" lp="0" linkurl="mailto:meinkoni@gmail.com"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;De Spont aan het Ghandiplein in Stadskanaal is onze vaste speelzaal waar&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;wij de badmintonsport beoefenen&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Voor meer informatie van de BC verwijzen wij u naar de navigatiebalk aan &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;de bovenzijde.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Voor een ieder die de badmintonsport eens wil proberen, kom gerust eens &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;vrijblijvend langs en doe een paar keer gezellig mee. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Het enigste wat je mee moet nemen zijn een sportbroek of rok, een shirt &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;een paar niet aflatende sportschoenen en een dosis speelplezier&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Het voordeel van het badmintonnen is je kunt gerust alleen komen er is &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;opvang en je zit zo in de groep. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Kom eens langs en geniet van deze prachtige sport voor alle leeftijden.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Het lidmaatschap is gebonden aan een seizoen, waardoor de opzegging&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;geldt voor het nieuwe seizoen. Dit dient schriftelijk te gebeuren voor 1 oktober&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;van ieder jaar.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Voordat het lidmaatschap kan worden opgezegd, dient aan de contributieverplichting &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;te zijn voldaan. Indien niet op tijd is opgezegd door het lid ontstaat een betalingsverplichting &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;voor het gehele nieuwe seizoen."&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt; Een email kan gericht worden aan de secretaris&amp;nbsp; &lt;/I&gt;&lt;/font&gt;&lt;font face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;&lt;a href="mailto:meinkoni@gmail.com" title=""&gt;bcstadskanaal@ziggo.nl&lt;/a&gt;&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Of schriftelijk naar :&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;M Koning&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;W.H.Bosgrastraat 123&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;9665PJ Oude Pekela&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;B&gt;&lt;I&gt;.&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;U&gt;Het inschrijfformulier dient u te openen op een nieuwe pagina.&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;De aanmeldingen kunnen via de &lt;/I&gt;&lt;/font&gt;&lt;font face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;&lt;a href="mailto:meinkoni@gmail.com" title=""&gt;e mail &lt;/a&gt;&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;met vermelding van.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Naam ,Adres en postcode , woonplaats.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;geb datum ,geslacht, tel nr en email adres. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt; Wilt u eens deelnemen aan een training of speelavond.&amp;nbsp; Rackets zijn aanwezig.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Dit kan voor geïnteresseerden vanaf 18 jaar op de maandagavond of op de woensdagavond vanaf 20.00 uur. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Voor de 55 + leden bestaat er de mogelijkheid om op de woensdagmiddag&amp;nbsp; deel te nemen aan de training van 15.30 tot 17.15 uur.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;DE jeugd kan deelnemen aan de trainingen van&amp;nbsp; 18.30 tot 20.00 uur.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt; &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;I&gt;Kom naar onze sporthal: De Spont aan het Ghandiplein in Stadskanaal&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;B&gt;&lt;U&gt;&lt;I&gt;&lt;BR&gt;&lt;/U&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" style="font-size:21px;background-color:#FFFF00;"&gt;U kunt ook de bc steunen door uw naam te vermelden op onze club van 25 of 50 bord&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" style="font-size:21px;background-color:#FFFF00;"&gt;deze vermelding kost u 25 of 50 euro&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" style="font-size:21px;background-color:#FFFF00;"&gt;Uiteraard kunt u ook dit bedrijfsmatig doen en kan uw logo vermeld worden op het bord.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" style="font-size:21px;background-color:#FFFF00;"&gt;Dit bord hangt in de kantine van de Spont en word digitaal vertoond op de home page&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" style="font-size:21px;background-color:#FFFF00;"&gt;van onze website.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" style="font-size:21px;background-color:#FFFF00;"&gt;Steunt allen de bc, we hebben het nodig!&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:21px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;De Spont aan het Ghandiplein in Stadskanaal is onze vaste speelzaal waar&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;wij de badmintonsport beoefenen&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Voor meer informatie van de BC verwijzen wij u naar de navigatiebalk aan &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;de bovenzijde.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Voor een ieder die de badmintonsport eens wil proberen, kom gerust eens &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;vrijblijvend langs en doe een paar keer gezellig mee. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Het enigste wat je mee moet nemen zijn een sportbroek of rok, een shirt &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;een paar niet aflatende sportschoenen en een dosis speelplezier&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Het voordeel van het badmintonnen is je kunt gerust alleen komen er is &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;opvang en je zit zo in de groep. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Kom eens langs en geniet van deze prachtige sport voor alle leeftijden.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Het lidmaatschap is gebonden aan een seizoen, waardoor de opzegging&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;geldt voor het nieuwe seizoen. Dit dient schriftelijk te gebeuren voor 1 oktober&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;van ieder jaar.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Voordat het lidmaatschap kan worden opgezegd, dient aan de contributieverplichting &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;te zijn voldaan. Indien niet op tijd is opgezegd door het lid ontstaat een betalingsverplichting &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;voor het gehele nieuwe seizoen."&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt; Een email kan gericht worden aan de secretaris&amp;nbsp; &lt;/I&gt;&lt;/font&gt;&lt;font face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;&lt;a href="mailto:meinkoni@gmail.com" title=""&gt;bcstadskanaal@ziggo.nl&lt;/a&gt;&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Of schriftelijk naar :&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;M Koning&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;W.H.Bosgrastraat 123&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;9665PJ Oude Pekela&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;B&gt;&lt;I&gt;.&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;U&gt;Het inschrijfformulier dient u te openen op een nieuwe pagina.&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;De aanmeldingen kunnen via de &lt;/I&gt;&lt;/font&gt;&lt;font face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;&lt;a href="mailto:meinkoni@gmail.com" title=""&gt;e mail &lt;/a&gt;&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;met vermelding van.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Naam ,Adres en postcode , woonplaats.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;geb datum ,geslacht, tel nr en email adres. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt; Wilt u eens deelnemen aan een training of speelavond.&amp;nbsp; Rackets zijn aanwezig.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Dit kan voor geïnteresseerden vanaf 18 jaar op de maandagavond of op de woensdagavond vanaf 20.00 uur. &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Voor de 55 + leden bestaat er de mogelijkheid om op de woensdagmiddag&amp;nbsp; deel te nemen aan de training van 15.30 tot 17.15 uur.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;DE jeugd kan deelnemen aan de trainingen van&amp;nbsp; 18.30 tot 20.00 uur.&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt; &lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;&lt;BR&gt;&lt;/I&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;I&gt;Kom naar onze sporthal: De Spont aan het Ghandiplein in Stadskanaal&lt;/I&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;B&gt;&lt;U&gt;&lt;I&gt;&lt;BR&gt;&lt;/U&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" class="ws16" style="background-color:#FFFF00;"&gt;U kunt ook de bc steunen door uw naam te vermelden op onze club van 25 of 50 bord&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" class="ws16" style="background-color:#FFFF00;"&gt;deze vermelding kost u 25 of 50 euro&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" class="ws16" style="background-color:#FFFF00;"&gt;Uiteraard kunt u ook dit bedrijfsmatig doen en kan uw logo vermeld worden op het bord.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" class="ws16" style="background-color:#FFFF00;"&gt;Dit bord hangt in de kantine van de Spont en word digitaal vertoond op de home page&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" class="ws16" style="background-color:#FFFF00;"&gt;van onze website.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="@Arial Unicode MS" class="ws16" style="background-color:#FFFF00;"&gt;Steunt allen de bc, we hebben het nodig!&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws16"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoNBAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBFNpemUCEAVDb2xvcgcH
+Y2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBhFAQXJp
+YWwgVW5pY29kZSBNUwRTaXplAhAFU3R5bGULCGZzSXRhbGljAAVDb2xvcgcHY2xXaGl0ZQABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBhFAQXJpYWwgVW5pY29kZSBN
+UwRTaXplAhAFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1h
+bCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYRQEFyaWFsIFVuaWNvZGUgTVMEU2l6ZQIQBVN0eWxl
+CwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBFNpemUCEAVTdHlsZQsIZnNJ
+dGFsaWMLZnNVbmRlcmxpbmUABUNvbG9yBwdjbFdoaXRlBEp1bXAJC05leHRTdHlsZU5vAgQAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYRQEFyaWFsIFVuaWNvZGUg
+TVMEU2l6ZQIQBUNvbG9yBwdjbEJsYWNrCUJhY2tDb2xvcgcIY2xZZWxsb3cAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYRQEFyaWFsIFVuaWNvZGUgTVMEU2l6ZQIQ
+BVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMLZnNVbmRlcmxpbmUABUNvbG9yBwdjbFdoaXRlAAEJU3R5
+bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1T
+BFNpemUCEAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBwdjbFdoaXRlAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAy
+IDAgNA0KcnZzDQoCAAAADgA1IDEgMCAwIDAgMA0KDQo0IDE5IDAgMCAwIDANCkRlIFNwb250IGFh
+biBoZXQgR2hhbmRpcGxlaW4gaW4gU3RhZHNrYW5hYWwgaXMgb256ZSB2YXN0ZSBzcGVlbHphYWwg
+d2Fhcg0Kd2lqIGRlIGJhZG1pbnRvbnNwb3J0IGJlb2VmZW5lbg0KVm9vciBtZWVyIGluZm9ybWF0
+aWUgdmFuIGRlIEJDIHZlcndpanplbiB3aWogdSBuYWFyIGRlIG5hdmlnYXRpZWJhbGsgYWFuIA0K
+ZGUgYm92ZW56aWpkZS4NClZvb3IgZWVuIGllZGVyIGRpZSBkZSBiYWRtaW50b25zcG9ydCBlZW5z
+IHdpbCBwcm9iZXJlbiwga29tIGdlcnVzdCBlZW5zIA0KdnJpamJsaWp2ZW5kIGxhbmdzIGVuIGRv
+ZSBlZW4gcGFhciBrZWVyIGdlemVsbGlnIG1lZS4gDQpIZXQgZW5pZ3N0ZSB3YXQgamUgbWVlIG1v
+ZXQgbmVtZW4gemlqbiBlZW4gc3BvcnRicm9layBvZiByb2ssIGVlbiBzaGlydCANCmVlbiBwYWFy
+IG5pZXQgYWZsYXRlbmRlIHNwb3J0c2Nob2VuZW4gZW4gZWVuIGRvc2lzIHNwZWVscGxlemllcg0K
+SGV0IHZvb3JkZWVsIHZhbiBoZXQgYmFkbWludG9ubmVuIGlzIGplIGt1bnQgZ2VydXN0IGFsbGVl
+biBrb21lbiBlciBpcyANCm9wdmFuZyBlbiBqZSB6aXQgem8gaW4gZGUgZ3JvZXAuIA0KS29tIGVl
+bnMgbGFuZ3MgZW4gZ2VuaWV0IHZhbiBkZXplIHByYWNodGlnZSBzcG9ydCB2b29yIGFsbGUgbGVl
+ZnRpamRlbi4NCg0KSGV0IGxpZG1hYXRzY2hhcCBpcyBnZWJvbmRlbiBhYW4gZWVuIHNlaXpvZW4s
+IHdhYXJkb29yIGRlIG9wemVnZ2luZw0KZ2VsZHQgdm9vciBoZXQgbmlldXdlIHNlaXpvZW4uIERp
+dCBkaWVudCBzY2hyaWZ0ZWxpamsgdGUgZ2ViZXVyZW4gdm9vciAxIG9rdG9iZXINCnZhbiBpZWRl
+ciBqYWFyLg0KVm9vcmRhdCBoZXQgbGlkbWFhdHNjaGFwIGthbiB3b3JkZW4gb3BnZXplZ2QsIGRp
+ZW50IGFhbiBkZSBjb250cmlidXRpZXZlcnBsaWNodGluZyANCnRlIHppam4gdm9sZGFhbi4gSW5k
+aWVuIG5pZXQgb3AgdGlqZCBpcyBvcGdlemVnZCBkb29yIGhldCBsaWQgb250c3RhYXQgZWVuIGJl
+dGFsaW5nc3ZlcnBsaWNodGluZyANCnZvb3IgaGV0IGdlaGVsZSBuaWV1d2Ugc2Vpem9lbi4iDQog
+RWVuIGVtYWlsIGthbiBnZXJpY2h0IHdvcmRlbiBhYW4gZGUgc2VjcmV0YXJpcyAgDQo3IDEgLTEg
+MSAwICJ1cmw9bWFpbHRvOm1laW5rb25pQGdtYWlsLmNvbSINCmJjc3RhZHNrYW5hYWxAemlnZ28u
+bmwNCjQgMSAtMSAxIDAgMA0KLiANCjQgNCAwIDAgMCAwDQpPZiBzY2hyaWZ0ZWxpamsgbmFhciA6
+DQpNIEtvbmluZw0KVy5ILkJvc2dyYXN0cmFhdCAxMjMNCjk2NjVQSiBPdWRlIFBla2VsYQ0KNiAx
+IC0xIDEgMCAwDQouDQoxMCAxIDAgMCAwIDANCkhldCBpbnNjaHJpamZmb3JtdWxpZXIgZGllbnQg
+dSB0ZSBvcGVuZW4gb3AgZWVuIG5pZXV3ZSBwYWdpbmEuDQo0IDIgMCAwIDAgMA0KDQpEZSBhYW5t
+ZWxkaW5nZW4ga3VubmVuIHZpYSBkZSANCjcgMSAtMSAxIDAgInVybD1tYWlsdG86bWVpbmtvbmlA
+Z21haWwuY29tIg0KZSBtYWlsIA0KNCAxIC0xIDEgMCAwDQptZXQgdmVybWVsZGluZyB2YW4uDQo0
+IDMgMCAwIDAgMA0KTmFhbSAsQWRyZXMgZW4gcG9zdGNvZGUgLCB3b29ucGxhYXRzLg0KZ2ViIGRh
+dHVtICxnZXNsYWNodCwgdGVsIG5yIGVuIGVtYWlsIGFkcmVzLiANCg0KMyAxIDAgMCAwIDANCg0K
+NCA3IDAgMCAwIDANCiBXaWx0IHUgZWVucyBkZWVsbmVtZW4gYWFuIGVlbiB0cmFpbmluZyBvZiBz
+cGVlbGF2b25kLiAgUmFja2V0cyB6aWpuIGFhbndlemlnLg0KRGl0IGthbiB2b29yIGdl7250ZXJl
+c3NlZXJkZW4gdmFuYWYgMTggamFhciBvcCBkZSBtYWFuZGFnYXZvbmQgb2Ygb3AgZGUgd29lbnNk
+YWdhdm9uZCB2YW5hZiAyMC4wMCB1dXIuIA0KVm9vciBkZSA1NSArIGxlZGVuIGJlc3RhYXQgZXIg
+ZGUgbW9nZWxpamtoZWlkIG9tIG9wIGRlIHdvZW5zZGFnbWlkZGFnICBkZWVsIHRlIG5lbWVuIGFh
+biBkZSB0cmFpbmluZyB2YW4gMTUuMzAgdG90IDE3LjE1IHV1ci4NCkRFIGpldWdkIGthbiBkZWVs
+bmVtZW4gYWFuIGRlIHRyYWluaW5nZW4gdmFuICAxOC4zMCB0b3QgMjAuMDAgdXVyLg0KIA0KDQpL
+b20gbmFhciBvbnplIHNwb3J0aGFsOiBEZSBTcG9udCBhYW4gaGV0IEdoYW5kaXBsZWluIGluIFN0
+YWRza2FuYWFsDQozIDEgLTEgMSAwIDANCi4NCjkgMSAwIDAgMCAwDQoNCjMgMiAwIDAgMCAwDQoN
+Ci4NCjggNiAwIDAgMCAwDQpVIGt1bnQgb29rIGRlIGJjIHN0ZXVuZW4gZG9vciB1dyBuYWFtIHRl
+IHZlcm1lbGRlbiBvcCBvbnplIGNsdWIgdmFuIDI1IG9mIDUwIGJvcmQNCmRlemUgdmVybWVsZGlu
+ZyBrb3N0IHUgMjUgb2YgNTAgZXVybw0KVWl0ZXJhYXJkIGt1bnQgdSBvb2sgZGl0IGJlZHJpamZz
+bWF0aWcgZG9lbiBlbiBrYW4gdXcgbG9nbyB2ZXJtZWxkIHdvcmRlbiBvcCBoZXQgYm9yZC4NCkRp
+dCBib3JkIGhhbmd0IGluIGRlIGthbnRpbmUgdmFuIGRlIFNwb250IGVuIHdvcmQgZGlnaXRhYWwg
+dmVydG9vbmQgb3AgZGUgaG9tZSBwYWdlDQp2YW4gb256ZSB3ZWJzaXRlLg0KU3RldW50IGFsbGVu
+IGRlIGJjLCB3ZSBoZWJiZW4gaGV0IG5vZGlnIQ0KMyA4IDAgMCAwIDANCg0KDQoNCg0KDQoNCg0K
+ICAgICAgICAgICAgICAgICAgICAgDQo=
+</rvf></Component></body></page><page id="p190226578" pageindex="2" name="55+" pp="0" cp="0"><body generator="0" bgimage="D:\Documenten\clipart\badminton-hd-wallpapers7.jpg" bgpreview="D:\Documenten\clipart\badminton-hd-wallpapers7.jpg" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="0" bgoutput="images/badminton-hd-wallpapers7.jpg" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text103444078" left="1" top="0" width="912" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="631" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Hieronder ziet u de spelers&amp;nbsp; van het golden oldie 55+ gebeuren&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Op woensdagmiddag word onder de bezielende leiding van Martin van der Poll en zijn charmante begeleidster Anna Vos fanatiek&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;gespeeld door de senioren van de Bc Stadskanaal.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Na een kleine warming up en wat trainingen word er altijd een kleine pauze gehouden met een heerlijk kopje thee bij Roelof in de kantine.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Hierna is het weer tijd om de resterende uren mekaar de loef af te steken en elkaar partij te geven. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Als de middag er dan ook opzit kunnen zij moe gestreden en voldaan huiswaarts keren.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Er is nog enige ruimte voor wat nieuwe leden, dus komt gezellig eens langs.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Wij beginnen om 15.30uur en gaan door tot 16.55 uur&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Zoals je ziet een beetje ouder een beetje grijzer&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Maar nog altijd even fanatiek&lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt; .&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;B&gt;Foto Jantje van Dijk&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Hieronder ziet u de spelers&amp;nbsp; van het golden oldie 55+ gebeuren&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Op woensdagmiddag word onder de bezielende leiding van Martin van der Poll en zijn charmante begeleidster Anna Vos fanatiek&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;gespeeld door de senioren van de Bc Stadskanaal.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Na een kleine warming up en wat trainingen word er altijd een kleine pauze gehouden met een heerlijk kopje thee bij Roelof in de kantine.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Hierna is het weer tijd om de resterende uren mekaar de loef af te steken en elkaar partij te geven. &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Als de middag er dan ook opzit kunnen zij moe gestreden en voldaan huiswaarts keren.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Er is nog enige ruimte voor wat nieuwe leden, dus komt gezellig eens langs.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Wij beginnen om 15.30uur en gaan door tot 16.55 uur&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Zoals je ziet een beetje ouder een beetje grijzer&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Maar nog altijd even fanatiek&lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt; .&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;B&gt;Foto Jantje van Dijk&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp5AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBFNpemUCDgVTdHlsZQsG
+ZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQI
+CEZvbnROYW1lBhFAQXJpYWwgVW5pY29kZSBNUwRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IH
+CGNsWWVsbG93AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA0IDEwIDAgMCAwIDANCkhp
+ZXJvbmRlciB6aWV0IHUgZGUgc3BlbGVycyAgdmFuIGhldCBnb2xkZW4gb2xkaWUgNTUrIGdlYmV1
+cmVuDQpPcCB3b2Vuc2RhZ21pZGRhZyB3b3JkIG9uZGVyIGRlIGJlemllbGVuZGUgbGVpZGluZyB2
+YW4gTWFydGluIHZhbiBkZXIgUG9sbCBlbiB6aWpuIGNoYXJtYW50ZSBiZWdlbGVpZHN0ZXIgQW5u
+YSBWb3MgZmFuYXRpZWsNCmdlc3BlZWxkIGRvb3IgZGUgc2VuaW9yZW4gdmFuIGRlIEJjIFN0YWRz
+a2FuYWFsLg0KTmEgZWVuIGtsZWluZSB3YXJtaW5nIHVwIGVuIHdhdCB0cmFpbmluZ2VuIHdvcmQg
+ZXIgYWx0aWpkIGVlbiBrbGVpbmUgcGF1emUgZ2Vob3VkZW4gbWV0IGVlbiBoZWVybGlqayBrb3Bq
+ZSB0aGVlIGJpaiBSb2Vsb2YgaW4gZGUga2FudGluZS4NCkhpZXJuYSBpcyBoZXQgd2VlciB0aWpk
+IG9tIGRlIHJlc3RlcmVuZGUgdXJlbiBtZWthYXIgZGUgbG9lZiBhZiB0ZSBzdGVrZW4gZW4gZWxr
+YWFyIHBhcnRpaiB0ZSBnZXZlbi4gDQpBbHMgZGUgbWlkZGFnIGVyIGRhbiBvb2sgb3B6aXQga3Vu
+bmVuIHppaiBtb2UgZ2VzdHJlZGVuIGVuIHZvbGRhYW4gaHVpc3dhYXJ0cyBrZXJlbi4NCkVyIGlz
+IG5vZyBlbmlnZSBydWltdGUgdm9vciB3YXQgbmlldXdlIGxlZGVuLCBkdXMga29tdCBnZXplbGxp
+ZyBlZW5zIGxhbmdzLg0KV2lqIGJlZ2lubmVuIG9tIDE1LjMwdXVyIGVuIGdhYW4gZG9vciB0b3Qg
+MTYuNTUgdXVyDQpab2FscyBqZSB6aWV0IGVlbiBiZWV0amUgb3VkZXIgZWVuIGJlZXRqZSBncmlq
+emVyDQpNYWFyIG5vZyBhbHRpamQgZXZlbiBmYW5hdGllaw0KMyAxIC0xIDEgMCAwDQogLg0KNCAx
+IDAgMCAwIDANCkZvdG8gSmFudGplIHZhbiBEaWprDQo=
+</rvf></Component><Component type="3" id="image1" zorder="1" filename="image106841250" left="2" top="356" width="378" height="282" originwidth="257" originheight="192" src="D:\Documenten\bcs2\website logos baners etc\55+ foto.jpg" previewfile="D:\Documenten\bcs2\website logos baners etc\55+ foto.jpg" thumbname="thumb857765" resamplename="img857781" exportfilename="images/55+ foto.jpg"/></body></page><page id="p190473906" pageindex="3" name="speeltijden" pp="0" cp="0"><body generator="0" bgimage="D:\Documenten\clipart\badminton_1440x900_34843.jpg" bgpreview="D:\Documenten\clipart\badminton_1440x900_34843.jpg" repeat="3" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="0" bgoutput="images/badminton_1440x900_34843.jpg" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text105288734" left="6" top="1" width="736" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="610" fp="0" lp="0" selected="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De senioren maandagavond van &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; 20.00&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tot&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 22.00 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De senioren 55+ trainen op de woensdagmiddag van &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;15.30&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;tot&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;17.15&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De jeugd&amp;nbsp; woensdagmiddag van&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 18.30&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tot&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;20.00&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De senioren woensdag van &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 20.00&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;tot&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;22.00&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Tijdens de competitie worden de thuiswedstrijden gespeeld op de &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Maandagavond en de woensdag avond&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Aanvang maandag 23 Augustus 2021&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;En de Woensdag begint op 25 Augustus&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De weekendcompetitieteams spelen net als de jeugd hun thuiswedstrijden&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;indien mogelijk op de zaterdag anders word er uitgeweken naar de zondag&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De trainingen voor de jeugd worden verzorg door ervaren trainers die &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Hiervoor de juiste opleiding hebben genoten. Dit geld zowel voor de &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;fanatieke speler als voor de recreant.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De senioren maandagavond van &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; 20.00&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tot&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 22.00 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De senioren 55+ trainen op de woensdagmiddag van &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;15.30&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;tot&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;17.15&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De jeugd&amp;nbsp; woensdagmiddag van&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 18.30&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tot&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;20.00&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De senioren woensdag van &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 20.00&amp;nbsp; &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;tot&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;22.00&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Tijdens de competitie worden de thuiswedstrijden gespeeld op de &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Maandagavond en de woensdag avond&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Aanvang maandag 23 Augustus 2021&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;En de Woensdag begint op 25 Augustus&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De weekendcompetitieteams spelen net als de jeugd hun thuiswedstrijden&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;indien mogelijk op de zaterdag anders word er uitgeweken naar de zondag&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De trainingen voor de jeugd worden verzorg door ervaren trainers die &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Hiervoor de juiste opleiding hebben genoten. Dit geld zowel voor de &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;fanatieke speler als voor de recreant.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBFNpemUCDgVDb2xvcgcI
+Y2xZZWxsb3cAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxp
+Z24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFD
+ZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50
+BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09w
+dGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1
+cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpEZSBz
+ZW5pb3JlbiBtYWFuZGFnYXZvbmQgdmFuIA0KLTEyIDAgLTEgMSAwIDAgMw0KMyAxIC0xIDEgMCAw
+DQoNCi0xMiAwIC0xIDEgMCAwIDMNCjMgMSAtMSAxIDAgMA0KDQotMTIgMCAtMSAxIDAgMCAzDQoz
+IDEgLTEgMSAwIDANCg0KLTEyIDAgLTEgMSAwIDAgMw0KMyAxIC0xIDEgMCAwDQogICAgICANCi0x
+MiAwIC0xIDEgMCAwIDMNCjMgMSAtMSAxIDAgMA0KIDIwLjAwICAgICAgICB0b3QgICAgICAyMi4w
+MCANCjMgMiAxIDAgMCAwDQoNCkRlIHNlbmlvcmVuIDU1KyB0cmFpbmVuIG9wIGRlIHdvZW5zZGFn
+bWlkZGFnIHZhbiANCi0xMiAwIC0xIDEgMCAwIDMNCjMgMSAtMSAxIDAgMA0KMTUuMzANCi0xMiAw
+IC0xIDEgMCAwIDMNCjMgMSAtMSAxIDAgMA0KdG90DQotMTIgMCAtMSAxIDAgMCAzDQozIDEgLTEg
+MSAwIDANCjE3LjE1DQozIDIgMSAwIDAgMA0KDQpEZSBqZXVnZCAgd29lbnNkYWdtaWRkYWcgdmFu
+ICAgDQotMTIgMCAtMSAxIDAgMCAzDQotMTIgMCAtMSAxIDAgMCAzDQotMTIgMCAtMSAxIDAgMCAz
+DQozIDEgLTEgMSAwIDANCiAgICAgMTguMzANCi0xMiAwIC0xIDEgMCAwIDMNCjMgMSAtMSAxIDAg
+MA0KICAgICB0b3QgIA0KLTEyIDAgLTEgMSAwIDAgMw0KMyAxIC0xIDEgMCAwDQoyMC4wMA0KMyAy
+IDEgMCAwIDANCiANCkRlIHNlbmlvcmVuIHdvZW5zZGFnIHZhbiANCi0xMiAwIC0xIDEgMCAwIDMN
+CjMgMSAtMSAxIDAgMA0KDQotMTIgMCAtMSAxIDAgMCAzDQozIDEgLTEgMSAwIDANCg0KLTEyIDAg
+LTEgMSAwIDAgMw0KMyAxIC0xIDEgMCAwDQoNCi0xMiAwIC0xIDEgMCAwIDMNCjMgMSAtMSAxIDAg
+MA0KDQotMTIgMCAtMSAxIDAgMCAzDQozIDEgLTEgMSAwIDANCiAgICAgICAgICAyMC4wMCAgDQot
+MTIgMCAtMSAxIDAgMCAzDQozIDEgLTEgMSAwIDANCnRvdA0KLTEyIDAgLTEgMSAwIDAgMw0KMyAx
+IC0xIDEgMCAwDQoyMi4wMA0KMyAxNCAxIDAgMCAwDQoNClRpamRlbnMgZGUgY29tcGV0aXRpZSB3
+b3JkZW4gZGUgdGh1aXN3ZWRzdHJpamRlbiBnZXNwZWVsZCBvcCBkZSANCk1hYW5kYWdhdm9uZCBl
+biBkZSB3b2Vuc2RhZyBhdm9uZA0KDQpBYW52YW5nIG1hYW5kYWcgMjMgQXVndXN0dXMgMjAyMQ0K
+RW4gZGUgV29lbnNkYWcgYmVnaW50IG9wIDI1IEF1Z3VzdHVzDQoNCg0KRGUgd2Vla2VuZGNvbXBl
+dGl0aWV0ZWFtcyBzcGVsZW4gbmV0IGFscyBkZSBqZXVnZCBodW4gdGh1aXN3ZWRzdHJpamRlbg0K
+aW5kaWVuIG1vZ2VsaWprIG9wIGRlIHphdGVyZGFnIGFuZGVycyB3b3JkIGVyIHVpdGdld2VrZW4g
+bmFhciBkZSB6b25kYWcNCg0KRGUgdHJhaW5pbmdlbiB2b29yIGRlIGpldWdkIHdvcmRlbiB2ZXJ6
+b3JnIGRvb3IgZXJ2YXJlbiB0cmFpbmVycyBkaWUgDQpIaWVydm9vciBkZSBqdWlzdGUgb3BsZWlk
+aW5nIGhlYmJlbiBnZW5vdGVuLiBEaXQgZ2VsZCB6b3dlbCB2b29yIGRlIA0KZmFuYXRpZWtlIHNw
+ZWxlciBhbHMgdm9vciBkZSByZWNyZWFudC4NCg==
+</rvf></Component></body></page><page id="p191581875" pageindex="4" name="Links" pp="0" cp="0"><body generator="0" bgimage="H:\Fotos\usa vakantie\fotos usa 2011\henk en miranda unzip files\P1060877.JPG" bgpreview="H:\Fotos\usa vakantie\fotos usa 2011\henk en miranda unzip files\P1060877.JPG" repeat="3" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgfixed="" bgp="0" bgoutput="images/P1060877.JPG" bgsoutput=""><Component type="3" id="image2" zorder="0" filename="image195258156" left="3" top="124" width="312" height="211" originwidth="4368" originheight="2912" src="H:\documenten\thijs memorial day\2012\_MG_9289normaal.jpg" previewfile="H:\documenten\thijs memorial day\2012\_MG_9289normaal.jpg" linkurl="http://www.texasrenegade.com/nl/?nav=home&amp;nummer=1" lp="0" thumbname="thumb198933078" resamplename="img198933093" exportfilename="images/_MG_9289normaal.jpg"/><Component type="3" id="image3" zorder="1" filename="image195481453" left="126" top="51" width="0" height="0" originwidth="0" originheight="0" src="H:\documenten\thijs memorial day\2010\j koning" previewfile="H:\documenten\thijs memorial day\2010\j koning" thumbname="thumb198933093" resamplename="img198933109" exportfilename="images/j koning"/><Component type="3" id="image5" zorder="2" filename="image196055078" width="257" height="191" originwidth="2048" originheight="1536" src="C:\Users\Gebruiker\Documents\Web Page Maker\Import\paste5.jpg" previewfile="C:\Users\Gebruiker\Documents\Web Page Maker\Import\paste5.jpg" left="1" top="604" linkurl="http://www.youtube.com/channel/UCsRE6w0-xQ-FdIys9Rfe1Ww" lp="0" thumbname="thumb198933125" resamplename="img198933125" exportfilename="images/paste5.jpg"/></body></page><page id="p192751140" pageindex="5" name="bestuur" pp="0" cp="0"><body generator="0" bgimage="D:\Backgrounds\birds-of-paradise-27190.jpg" bgpreview="D:\Backgrounds\birds-of-paradise-27190.jpg" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="0" bgoutput="images/birds-of-paradise-27190.jpg" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text107555984" left="1" top="5" width="739" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="666" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Voorzitter:                              &amp;nbsp;&amp;nbsp; dhr.: H Van Der Struik&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;a href="mailto:h.struik1960@gmail.com" title=""&gt;E-mail de voorzitter &lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Script MT Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Penningmeester:                   &amp;nbsp;&amp;nbsp; dhr.: M. v/d Poll&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;a href="mailto:m.vande.poll@ziggo.nl" title=""&gt; E Mail de penningmeester&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Secretariaat/ ledenadministratie  dhr.: M. Koning &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Tel.: 0622047717&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;a href="mailto:meinkoni@gmail.com" title=""&gt;E-mail het secretariaat/ledenadministratie :&lt;/a&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;   &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Technische commissie:          dhr.: D. Voorintholt &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Tel.: 0599 - 61 97 34 &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;a href="mailto:voorintholt@hotmail.nl" title=""&gt;E-mail de technische commissie&lt;/a&gt;&lt;/font&gt;&lt;font face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;a href="mailto:voorintholt@zonnet.nl" title=""&gt; &lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;a href="mailto:svoorintholt@Hotmail.com" title=""&gt;&lt;BR&gt;&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Voorzitter:                              &amp;nbsp;&amp;nbsp; dhr.: H Van Der Struik&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" class="ws14"&gt;&lt;a href="mailto:h.struik1960@gmail.com" title=""&gt;E-mail de voorzitter &lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Script MT Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Penningmeester:                   &amp;nbsp;&amp;nbsp; dhr.: M. v/d Poll&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" class="ws14"&gt;&lt;a href="mailto:m.vande.poll@ziggo.nl" title=""&gt; E Mail de penningmeester&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Secretariaat/ ledenadministratie  dhr.: M. Koning &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Tel.: 0622047717&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" class="ws14"&gt;&lt;a href="mailto:meinkoni@gmail.com" title=""&gt;E-mail het secretariaat/ledenadministratie :&lt;/a&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;   &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Technische commissie:          dhr.: D. Voorintholt &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Tel.: 0599 - 61 97 34 &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" class="ws14"&gt;&lt;a href="mailto:voorintholt@hotmail.nl" title=""&gt;E-mail de technische commissie&lt;/a&gt;&lt;/font&gt;&lt;font face="@Arial Unicode MS" class="ws14"&gt;&lt;a href="mailto:voorintholt@zonnet.nl" title=""&gt; &lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="@Arial Unicode MS" class="ws14"&gt;&lt;a href="mailto:svoorintholt@Hotmail.com" title=""&gt;&lt;BR&gt;&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr8AgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDlNjcmlwdCBNVCBCb2xkBFNpemUCDAVDb2xvcgcHY2xX
+aGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBhFAQXJpYWwg
+VW5pY29kZSBNUwRTaXplAg4FU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcIY2xZZWxsb3cESnVt
+cAkLTmV4dFN0eWxlTm8CAwABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnRO
+YW1lBhFAQXJpYWwgVW5pY29kZSBNUwRTaXplAg4FQ29sb3IHCGNsWWVsbG93AAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDlNjcmlwdCBNVCBCb2xkBFNpemUCDAVD
+b2xvcgcIY2xZZWxsb3cAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYRQEFyaWFsIFVuaWNvZGUgTVMEU2l6ZQIOBUNvbG9yBwdjbEJsYWNrAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBFNpemUCDgVT
+dHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBwhjbFllbGxvdwRKdW1wCQtOZXh0U3R5bGVObwIHAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA1IDMgMCAwIDAgMA0KVm9vcnppdHRlcjqgoKCg
+oKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAgICBkaHIuOiBIIFZhbiBEZXIgU3RydWlrDQogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQoNCjQgMSAw
+IDAgMCAidXJsPW1haWx0bzpoLnN0cnVpazE5NjBAZ21haWwuY29tIg0KRS1tYWlsIGRlIHZvb3J6
+aXR0ZXIgDQo2IDEgMCAwIDAgMA0KDQo1IDQgMCAwIDAgMA0KDQpQZW5uaW5nbWVlc3RlcjqgoKCg
+oKCgoKCgoKCgoKCgoKCgICAgZGhyLjogTS4gdi9kIFBvbGwgICAgICAgDQogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAg
+ICAgDQo0IDEgMCAwIDAgInVybD1tYWlsdG86bS52YW5kZS5wb2xsQHppZ2dvLm5sIg0KIEUgTWFp
+bCBkZSBwZW5uaW5nbWVlc3Rlcg0KNSAzIDAgMCAwIDANCg0KU2VjcmV0YXJpYWF0LyBsZWRlbmFk
+bWluaXN0cmF0aWWgIGRoci46IE0uIEtvbmluZyANCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGVsLjogMDYyMjA0NzcxNw0KNCAxIDAgMCAw
+ICJ1cmw9bWFpbHRvOm1laW5rb25pQGdtYWlsLmNvbSINCkUtbWFpbCBoZXQgc2VjcmV0YXJpYWF0
+L2xlZGVuYWRtaW5pc3RyYXRpZSA6DQo1IDEgLTEgMSAwIDANCqCgoA0KNSAzIDAgMCAwIDANCg0K
+VGVjaG5pc2NoZSBjb21taXNzaWU6oKCgoKCgoKCgIGRoci46IEQuIFZvb3JpbnRob2x0IA0KICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRlbC46IDA1
+OTkgLSA2MSA5NyAzNCANCjQgMSAwIDAgMCAidXJsPW1haWx0bzp2b29yaW50aG9sdEBob3RtYWls
+Lm5sIg0KRS1tYWlsIGRlIHRlY2huaXNjaGUgY29tbWlzc2llDQo4IDEgLTEgMSAwICJ1cmw9bWFp
+bHRvOnZvb3JpbnRob2x0QHpvbm5ldC5ubCINCiANCjUgMSAwIDAgMCAwDQoNCjggMSAwIDAgMCAw
+DQoNCjQgMSAwIDAgMCAidXJsPW1haWx0bzpzdm9vcmludGhvbHRASG90bWFpbC5jb20iDQoNCg==
+</rvf></Component></body></page><page id="p105035078" pageindex="6" name="spelregels" pp="0" cp="0"><body generator="0" bgimage="D:\Documenten\clipart\badminton-olympics-wallpapers.jpg" bgpreview="D:\Documenten\clipart\badminton-olympics-wallpapers.jpg" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="0" bgoutput="images/badminton-olympics-wallpapers.jpg" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text105114796" left="0" top="0" width="869" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="2107" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;BEKNOPTE SPELREGELS BADMINTON&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Voor het volledige spelregeldocument klik hier&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Wat heb je nodig?&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp; Racket&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Ten eerste heb je natuurlijk een badmintonracket nodig. Laat je adviseren door een trainer, ervaren spelers of een winkelier wat betreft bespanning, gripdikte, prijs en merk.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp; Sportkleren&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Om te kunnen badmintonnen heb je eigenlijk alleen een trainingspak nodig met daaronder een t-shirt en een short. Wanneer je warm gespeeld bent, dan kun je je trainingspak uit doen. Schoenen dienen licht en veerkrachtig te zijn met goede steun en een goed profiel.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp; Shuttles&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Tenslotte heb je een shuttle nodig. Er zijn nylon shuttles voor beginners en veren shuttles voor gevorderden. Meestal heeft de vereniging shuttles waar je gebruik van kunt maken.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Speelveld&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Het speelveld voor badminton ziet er zo uit: &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Het veld is 13,40 meter lang en 6,10 meter breed. Het net moet bij de palen 155 cm hoog zijn.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Het speelveld voor het dubbelspel:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Spelsoorten&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Badminton kent vijf spelsoorten:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;mannenenkelspel (MS)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;vrouwenenkelspel (WS)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;mannendubbelspel (MD)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;vrouwendubbelspel (WD)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;gemengddubbelspel (MXD).&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Toss&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Voordat een spel begint is er een loting (toss). Wie deze toss wint mag een keuze maken uit de volgende mogelijkheden:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp; eerst serveren of eerst de service ontvangen, of:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp; het spel beginnen aan de ene kant dan wel aan de andere kant. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De tegenpartij kiest uit de overgebleven mogelijkheden. Dus indien bijvoorbeeld de winnaar van de toss er voor kiest om eerst te serveren, dan is de verliezer van de toss de eerste ontvanger en kiest deze dus de kant van het veld waarop hij/zij begint.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Bij de stand 0-0 en alle even punten, wordt geserveerd vanuit het rechter serveervak. Bij alle oneven punten wordt geserveerd vanuit het linker serveervak. Na iedere score vindt de service plaats vanuit het naastliggende serveervak.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Service algemeen&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De service is heel belangrijk in badminton. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Een service is goed als:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; deze onderhands geslagen wordt&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; deze diagonaal in het juiste speelvak wordt gespeeld (zie tekening boven);&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de serveerder niet op of tegen de lijnen staat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de serveerder met beide voeten op de grond staat.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Onderhands: Het racketblad moet naar beneden wijzen.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Service enkelspel&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Iedere speler heeft één servicebeurt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; In één servicebeurt kunnen géén of meer punten gescoord worden.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Als je een fout maakt, gaat de service naar de tegenstander en deze krijgt een punt..&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Service dubbelspel&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ieder team heeft een servicebeurt. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bij een even stand wordt vanuit het rechter vak geserveerd. Bij een oneven stand uit het linker.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; In één servicebeurt kunnen géén of meer punten gescoord worden door dezelfde speler.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Er wordt alleen van serveervak gewisseld als je zelf (of je partner) een punt maakt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Telling&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Er wordt gespeeld op basis van het rally-point systeem (elke punt is ook echt een punt, de oude situatie dat je alleen kan scoren bij eigen service is komen te vervallen). De wedstrijd gaat om 2 gewonnen games tot 21 punten. Er moet worden gewonnen met een verschil van 2 punten tot een maximum van 30. Dus wie als eerste de 30 bereikt heeft de game gewonnen.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Je scoort een punt als&amp;nbsp; …&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als je de shuttle in het speelveld van de tegenstander op de grond slaat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de tegenstander de shuttle in het net, onder het net, tegen het plafond of zijmuren of buiten jouw speelveld slaat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de tegenstander de shuttle slaat voordat deze over het net is;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de tegenstander de shuttle twee maal achter elkaar raakt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Je krijgt een punt tegen als ...&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de shuttle binnen je speelveld op de grond valt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de shuttle tijdens de service, buiten het juiste serveervak van je tegenstander valt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als je in het net slaat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als je de shuttle twee maal achter elkaar raakt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Een let is&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Een let betekent dat de rally opnieuw moet worden gespeeld als gevolg van een onvoorziene gebeurtenis (bijvoorbeeld als de shuttle van anderen in jouw veld valt).&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Officiele spelregels NBB&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De officiele spelregels bevatten alle regels van het badmintonspel! Een brochure met hierin de officiele spelregels is te kop via de badmintonshop, zie www.badminton.nl, neem button 'badmintonshop'. Of kijk op de site bij NBB, reglementen.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;BEKNOPTE SPELREGELS BADMINTON&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Voor het volledige spelregeldocument klik hier&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Wat heb je nodig?&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp; Racket&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Ten eerste heb je natuurlijk een badmintonracket nodig. Laat je adviseren door een trainer, ervaren spelers of een winkelier wat betreft bespanning, gripdikte, prijs en merk.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp; Sportkleren&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Om te kunnen badmintonnen heb je eigenlijk alleen een trainingspak nodig met daaronder een t-shirt en een short. Wanneer je warm gespeeld bent, dan kun je je trainingspak uit doen. Schoenen dienen licht en veerkrachtig te zijn met goede steun en een goed profiel.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp; Shuttles&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Tenslotte heb je een shuttle nodig. Er zijn nylon shuttles voor beginners en veren shuttles voor gevorderden. Meestal heeft de vereniging shuttles waar je gebruik van kunt maken.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Speelveld&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Het speelveld voor badminton ziet er zo uit: &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Het veld is 13,40 meter lang en 6,10 meter breed. Het net moet bij de palen 155 cm hoog zijn.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Het speelveld voor het dubbelspel:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Spelsoorten&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Badminton kent vijf spelsoorten:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;mannenenkelspel (MS)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;vrouwenenkelspel (WS)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;mannendubbelspel (MD)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;vrouwendubbelspel (WD)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;gemengddubbelspel (MXD).&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Toss&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Voordat een spel begint is er een loting (toss). Wie deze toss wint mag een keuze maken uit de volgende mogelijkheden:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp; eerst serveren of eerst de service ontvangen, of:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp; het spel beginnen aan de ene kant dan wel aan de andere kant. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De tegenpartij kiest uit de overgebleven mogelijkheden. Dus indien bijvoorbeeld de winnaar van de toss er voor kiest om eerst te serveren, dan is de verliezer van de toss de eerste ontvanger en kiest deze dus de kant van het veld waarop hij/zij begint.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Bij de stand 0-0 en alle even punten, wordt geserveerd vanuit het rechter serveervak. Bij alle oneven punten wordt geserveerd vanuit het linker serveervak. Na iedere score vindt de service plaats vanuit het naastliggende serveervak.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Service algemeen&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De service is heel belangrijk in badminton. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Een service is goed als:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; deze onderhands geslagen wordt&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; deze diagonaal in het juiste speelvak wordt gespeeld (zie tekening boven);&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de serveerder niet op of tegen de lijnen staat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de serveerder met beide voeten op de grond staat.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Onderhands: Het racketblad moet naar beneden wijzen.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Service enkelspel&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Iedere speler heeft één servicebeurt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; In één servicebeurt kunnen géén of meer punten gescoord worden.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Als je een fout maakt, gaat de service naar de tegenstander en deze krijgt een punt..&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Service dubbelspel&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ieder team heeft een servicebeurt. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bij een even stand wordt vanuit het rechter vak geserveerd. Bij een oneven stand uit het linker.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; In één servicebeurt kunnen géén of meer punten gescoord worden door dezelfde speler.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;_&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Er wordt alleen van serveervak gewisseld als je zelf (of je partner) een punt maakt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Telling&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Er wordt gespeeld op basis van het rally-point systeem (elke punt is ook echt een punt, de oude situatie dat je alleen kan scoren bij eigen service is komen te vervallen). De wedstrijd gaat om 2 gewonnen games tot 21 punten. Er moet worden gewonnen met een verschil van 2 punten tot een maximum van 30. Dus wie als eerste de 30 bereikt heeft de game gewonnen.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Je scoort een punt als&amp;nbsp; …&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als je de shuttle in het speelveld van de tegenstander op de grond slaat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de tegenstander de shuttle in het net, onder het net, tegen het plafond of zijmuren of buiten jouw speelveld slaat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de tegenstander de shuttle slaat voordat deze over het net is;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de tegenstander de shuttle twee maal achter elkaar raakt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Je krijgt een punt tegen als ...&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de shuttle binnen je speelveld op de grond valt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als de shuttle tijdens de service, buiten het juiste serveervak van je tegenstander valt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als je in het net slaat;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp; als je de shuttle twee maal achter elkaar raakt.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Een let is&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Een let betekent dat de rally opnieuw moet worden gespeeld als gevolg van een onvoorziene gebeurtenis (bijvoorbeeld als de shuttle van anderen in jouw veld valt).&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Officiele spelregels NBB&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De officiele spelregels bevatten alle regels van het badmintonspel! Een brochure met hierin de officiele spelregels is te kop via de badmintonshop, zie www.badminton.nl, neem button 'badmintonshop'. Of kijk op de site bij NBB, reglementen.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBFNpemUCDgVDb2xvcgcI
+Y2xZZWxsb3cAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxp
+Z24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFD
+ZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50
+BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09w
+dGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1
+cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgNjggMCAwIDAgMA0KQkVL
+Tk9QVEUgU1BFTFJFR0VMUyBCQURNSU5UT04NClZvb3IgaGV0IHZvbGxlZGlnZSBzcGVscmVnZWxk
+b2N1bWVudCBrbGlrIGhpZXINCldhdCBoZWIgamUgbm9kaWc/DQoNCjEuICAgIFJhY2tldA0KVGVu
+IGVlcnN0ZSBoZWIgamUgbmF0dXVybGlqayBlZW4gYmFkbWludG9ucmFja2V0IG5vZGlnLiBMYWF0
+IGplIGFkdmlzZXJlbiBkb29yIGVlbiB0cmFpbmVyLCBlcnZhcmVuIHNwZWxlcnMgb2YgZWVuIHdp
+bmtlbGllciB3YXQgYmV0cmVmdCBiZXNwYW5uaW5nLCBncmlwZGlrdGUsIHByaWpzIGVuIG1lcmsu
+DQoNCjIuICAgIFNwb3J0a2xlcmVuDQpPbSB0ZSBrdW5uZW4gYmFkbWludG9ubmVuIGhlYiBqZSBl
+aWdlbmxpamsgYWxsZWVuIGVlbiB0cmFpbmluZ3NwYWsgbm9kaWcgbWV0IGRhYXJvbmRlciBlZW4g
+dC1zaGlydCBlbiBlZW4gc2hvcnQuIFdhbm5lZXIgamUgd2FybSBnZXNwZWVsZCBiZW50LCBkYW4g
+a3VuIGplIGplIHRyYWluaW5nc3BhayB1aXQgZG9lbi4gU2Nob2VuZW4gZGllbmVuIGxpY2h0IGVu
+IHZlZXJrcmFjaHRpZyB0ZSB6aWpuIG1ldCBnb2VkZSBzdGV1biBlbiBlZW4gZ29lZCBwcm9maWVs
+Lg0KDQozLiAgICBTaHV0dGxlcw0KVGVuc2xvdHRlIGhlYiBqZSBlZW4gc2h1dHRsZSBub2RpZy4g
+RXIgemlqbiBueWxvbiBzaHV0dGxlcyB2b29yIGJlZ2lubmVycyBlbiB2ZXJlbiBzaHV0dGxlcyB2
+b29yIGdldm9yZGVyZGVuLiBNZWVzdGFsIGhlZWZ0IGRlIHZlcmVuaWdpbmcgc2h1dHRsZXMgd2Fh
+ciBqZSBnZWJydWlrIHZhbiBrdW50IG1ha2VuLg0KDQpTcGVlbHZlbGQNCkhldCBzcGVlbHZlbGQg
+dm9vciBiYWRtaW50b24gemlldCBlciB6byB1aXQ6IA0KIA0KSGV0IHZlbGQgaXMgMTMsNDAgbWV0
+ZXIgbGFuZyBlbiA2LDEwIG1ldGVyIGJyZWVkLiBIZXQgbmV0IG1vZXQgYmlqIGRlIHBhbGVuIDE1
+NSBjbSBob29nIHppam4uDQoNCkhldCBzcGVlbHZlbGQgdm9vciBoZXQgZHViYmVsc3BlbDoNCiAN
+ClNwZWxzb29ydGVuDQpCYWRtaW50b24ga2VudCB2aWpmIHNwZWxzb29ydGVuOg0KbWFubmVuZW5r
+ZWxzcGVsIChNUykNCnZyb3V3ZW5lbmtlbHNwZWwgKFdTKQ0KbWFubmVuZHViYmVsc3BlbCAoTUQp
+DQp2cm91d2VuZHViYmVsc3BlbCAoV0QpDQpnZW1lbmdkZHViYmVsc3BlbCAoTVhEKS4NClRvc3MN
+ClZvb3JkYXQgZWVuIHNwZWwgYmVnaW50IGlzIGVyIGVlbiBsb3RpbmcgKHRvc3MpLiBXaWUgZGV6
+ZSB0b3NzIHdpbnQgbWFnIGVlbiBrZXV6ZSBtYWtlbiB1aXQgZGUgdm9sZ2VuZGUgbW9nZWxpamto
+ZWRlbjoNCi0gIGVlcnN0IHNlcnZlcmVuIG9mIGVlcnN0IGRlIHNlcnZpY2Ugb250dmFuZ2VuLCBv
+ZjoNCi0gIGhldCBzcGVsIGJlZ2lubmVuIGFhbiBkZSBlbmUga2FudCBkYW4gd2VsIGFhbiBkZSBh
+bmRlcmUga2FudC4gDQpEZSB0ZWdlbnBhcnRpaiBraWVzdCB1aXQgZGUgb3ZlcmdlYmxldmVuIG1v
+Z2VsaWpraGVkZW4uIER1cyBpbmRpZW4gYmlqdm9vcmJlZWxkIGRlIHdpbm5hYXIgdmFuIGRlIHRv
+c3MgZXIgdm9vciBraWVzdCBvbSBlZXJzdCB0ZSBzZXJ2ZXJlbiwgZGFuIGlzIGRlIHZlcmxpZXpl
+ciB2YW4gZGUgdG9zcyBkZSBlZXJzdGUgb250dmFuZ2VyIGVuIGtpZXN0IGRlemUgZHVzIGRlIGth
+bnQgdmFuIGhldCB2ZWxkIHdhYXJvcCBoaWovemlqIGJlZ2ludC4NCkJpaiBkZSBzdGFuZCAwLTAg
+ZW4gYWxsZSBldmVuIHB1bnRlbiwgd29yZHQgZ2VzZXJ2ZWVyZCB2YW51aXQgaGV0IHJlY2h0ZXIg
+c2VydmVlcnZhay4gQmlqIGFsbGUgb25ldmVuIHB1bnRlbiB3b3JkdCBnZXNlcnZlZXJkIHZhbnVp
+dCBoZXQgbGlua2VyIHNlcnZlZXJ2YWsuIE5hIGllZGVyZSBzY29yZSB2aW5kdCBkZSBzZXJ2aWNl
+IHBsYWF0cyB2YW51aXQgaGV0IG5hYXN0bGlnZ2VuZGUgc2VydmVlcnZhay4NClNlcnZpY2UgYWxn
+ZW1lZW4NCkRlIHNlcnZpY2UgaXMgaGVlbCBiZWxhbmdyaWprIGluIGJhZG1pbnRvbi4gDQpFZW4g
+c2VydmljZSBpcyBnb2VkIGFsczoNCl8gICAgICAgIGRlemUgb25kZXJoYW5kcyBnZXNsYWdlbiB3
+b3JkdA0KXyAgICAgICAgZGV6ZSBkaWFnb25hYWwgaW4gaGV0IGp1aXN0ZSBzcGVlbHZhayB3b3Jk
+dCBnZXNwZWVsZCAoemllIHRla2VuaW5nIGJvdmVuKTsNCl8gICAgICAgIGRlIHNlcnZlZXJkZXIg
+bmlldCBvcCBvZiB0ZWdlbiBkZSBsaWpuZW4gc3RhYXQ7DQpfICAgICAgICBkZSBzZXJ2ZWVyZGVy
+IG1ldCBiZWlkZSB2b2V0ZW4gb3AgZGUgZ3JvbmQgc3RhYXQuDQpPbmRlcmhhbmRzOiBIZXQgcmFj
+a2V0YmxhZCBtb2V0IG5hYXIgYmVuZWRlbiB3aWp6ZW4uDQpTZXJ2aWNlIGVua2Vsc3BlbA0KXyAg
+ICAgICAgSWVkZXJlIHNwZWxlciBoZWVmdCDp6W4gc2VydmljZWJldXJ0Lg0KXyAgICAgICAgSW4g
+6eluIHNlcnZpY2ViZXVydCBrdW5uZW4gZ+npbiBvZiBtZWVyIHB1bnRlbiBnZXNjb29yZCB3b3Jk
+ZW4uDQpfICAgICAgICBBbHMgamUgZWVuIGZvdXQgbWFha3QsIGdhYXQgZGUgc2VydmljZSBuYWFy
+IGRlIHRlZ2Vuc3RhbmRlciBlbiBkZXplIGtyaWpndCBlZW4gcHVudC4uDQpTZXJ2aWNlIGR1YmJl
+bHNwZWwNCl8gICAgICAgIEllZGVyIHRlYW0gaGVlZnQgZWVuIHNlcnZpY2ViZXVydC4gDQpfICAg
+ICAgICBCaWogZWVuIGV2ZW4gc3RhbmQgd29yZHQgdmFudWl0IGhldCByZWNodGVyIHZhayBnZXNl
+cnZlZXJkLiBCaWogZWVuIG9uZXZlbiBzdGFuZCB1aXQgaGV0IGxpbmtlci4NCl8gICAgICAgIElu
+IOnpbiBzZXJ2aWNlYmV1cnQga3VubmVuIGfp6W4gb2YgbWVlciBwdW50ZW4gZ2VzY29vcmQgd29y
+ZGVuIGRvb3IgZGV6ZWxmZGUgc3BlbGVyLg0KXyAgICAgICAgRXIgd29yZHQgYWxsZWVuIHZhbiBz
+ZXJ2ZWVydmFrIGdld2lzc2VsZCBhbHMgamUgemVsZiAob2YgamUgcGFydG5lcikgZWVuIHB1bnQg
+bWFha3QuDQpUZWxsaW5nDQpFciB3b3JkdCBnZXNwZWVsZCBvcCBiYXNpcyB2YW4gaGV0IHJhbGx5
+LXBvaW50IHN5c3RlZW0gKGVsa2UgcHVudCBpcyBvb2sgZWNodCBlZW4gcHVudCwgZGUgb3VkZSBz
+aXR1YXRpZSBkYXQgamUgYWxsZWVuIGthbiBzY29yZW4gYmlqIGVpZ2VuIHNlcnZpY2UgaXMga29t
+ZW4gdGUgdmVydmFsbGVuKS4gRGUgd2Vkc3RyaWpkIGdhYXQgb20gMiBnZXdvbm5lbiBnYW1lcyB0
+b3QgMjEgcHVudGVuLiBFciBtb2V0IHdvcmRlbiBnZXdvbm5lbiBtZXQgZWVuIHZlcnNjaGlsIHZh
+biAyIHB1bnRlbiB0b3QgZWVuIG1heGltdW0gdmFuIDMwLiBEdXMgd2llIGFscyBlZXJzdGUgZGUg
+MzAgYmVyZWlrdCBoZWVmdCBkZSBnYW1lIGdld29ubmVuLg0KSmUgc2Nvb3J0IGVlbiBwdW50IGFs
+cyAghQ0KLSAgICBhbHMgamUgZGUgc2h1dHRsZSBpbiBoZXQgc3BlZWx2ZWxkIHZhbiBkZSB0ZWdl
+bnN0YW5kZXIgb3AgZGUgZ3JvbmQgc2xhYXQ7DQotICAgIGFscyBkZSB0ZWdlbnN0YW5kZXIgZGUg
+c2h1dHRsZSBpbiBoZXQgbmV0LCBvbmRlciBoZXQgbmV0LCB0ZWdlbiBoZXQgcGxhZm9uZCBvZiB6
+aWptdXJlbiBvZiBidWl0ZW4gam91dyBzcGVlbHZlbGQgc2xhYXQ7DQotICAgIGFscyBkZSB0ZWdl
+bnN0YW5kZXIgZGUgc2h1dHRsZSBzbGFhdCB2b29yZGF0IGRlemUgb3ZlciBoZXQgbmV0IGlzOw0K
+LSAgICBhbHMgZGUgdGVnZW5zdGFuZGVyIGRlIHNodXR0bGUgdHdlZSBtYWFsIGFjaHRlciBlbGth
+YXIgcmFha3QuDQpKZSBrcmlqZ3QgZWVuIHB1bnQgdGVnZW4gYWxzIC4uLg0KLSAgICBhbHMgZGUg
+c2h1dHRsZSBiaW5uZW4gamUgc3BlZWx2ZWxkIG9wIGRlIGdyb25kIHZhbHQ7DQotICAgIGFscyBk
+ZSBzaHV0dGxlIHRpamRlbnMgZGUgc2VydmljZSwgYnVpdGVuIGhldCBqdWlzdGUgc2VydmVlcnZh
+ayB2YW4gamUgdGVnZW5zdGFuZGVyIHZhbHQ7DQotICAgIGFscyBqZSBpbiBoZXQgbmV0IHNsYWF0
+Ow0KLSAgICBhbHMgamUgZGUgc2h1dHRsZSB0d2VlIG1hYWwgYWNodGVyIGVsa2FhciByYWFrdC4N
+CkVlbiBsZXQgaXMNCkVlbiBsZXQgYmV0ZWtlbnQgZGF0IGRlIHJhbGx5IG9wbmlldXcgbW9ldCB3
+b3JkZW4gZ2VzcGVlbGQgYWxzIGdldm9sZyB2YW4gZWVuIG9udm9vcnppZW5lIGdlYmV1cnRlbmlz
+IChiaWp2b29yYmVlbGQgYWxzIGRlIHNodXR0bGUgdmFuIGFuZGVyZW4gaW4gam91dyB2ZWxkIHZh
+bHQpLg0KT2ZmaWNpZWxlIHNwZWxyZWdlbHMgTkJCDQpEZSBvZmZpY2llbGUgc3BlbHJlZ2VscyBi
+ZXZhdHRlbiBhbGxlIHJlZ2VscyB2YW4gaGV0IGJhZG1pbnRvbnNwZWwhIEVlbiBicm9jaHVyZSBt
+ZXQgaGllcmluIGRlIG9mZmljaWVsZSBzcGVscmVnZWxzIGlzIHRlIGtvcCB2aWEgZGUgYmFkbWlu
+dG9uc2hvcCwgemllIHd3dy5iYWRtaW50b24ubmwsIG5lZW0gYnV0dG9uICdiYWRtaW50b25zaG9w
+Jy4gT2Yga2lqayBvcCBkZSBzaXRlIGJpaiBOQkIsIHJlZ2xlbWVudGVuLg0KDQoNCg==
+</rvf></Component></body></page><page id="p105468109" pageindex="7" name="contributie" pp="0" cp="0"><body generator="0" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="D:\Documenten\clipart\Badminton Wallpapers 04.jpg" bgpreview="D:\Documenten\clipart\Badminton Wallpapers 04.jpg" bgp="0" bgoutput="images/Badminton Wallpapers 04.jpg" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text105508765" left="4" top="0" width="805" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" height="787" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; BCS Informatie:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;U heeft de mogelijkheid om drie keer kostenloos deel te nemen aan de trainingen. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Er zijn shuttles en rackets aanwezig, U dient dus alleen zorg te dragen voor fatsoenlijke &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;kleding en zaalsportschoenen met een niet aflatende zool.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Mocht U besluiten om door te gaan met badminton kunt U een inschrijfformulier invullen op&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;de website&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De contributie loopt van september tot september en kan in twee termijnen worden betaald,&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;De eerste termijn dient in de eerste week van het nieuwe seizoen gestort te zijn,&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;zo niet mag er niet aan de trainingen worden deelgenomen. De vervaldatum van de tweede &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;termijn is 1 januari.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Daar het bondsjaar van de NBB van Januari tot en met december loopt heeft tussentijdse &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;opzegging&amp;nbsp; geen restitutie van de contributie tot gevolg. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Bij aanmelding, voor januari van het volgend seizoen&amp;nbsp; word het complete contributie bedrag&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;gerekend.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Bij aanmelding na december geld een half jaar contributie.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Opzegging van het lidmaatschap dient schriftelijk of via e mail te gebeuren bij het secretariaat.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Tussentijds wordt er alleen niet getraind als de sporthal gesloten is.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; Contributie:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Inschrijfgeld Jeugd/senioren&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; €&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp; 5.00&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Contributie jeugd tot 18 jaar &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; €&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 150.00&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Contributie senioren&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; €&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 180.00&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;Contributie bijdrage: Per speler&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt; €&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 35.00 alleen voor comp spelers/sters senioren.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; BCS Informatie:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;U heeft de mogelijkheid om drie keer kostenloos deel te nemen aan de trainingen. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Er zijn shuttles en rackets aanwezig, U dient dus alleen zorg te dragen voor fatsoenlijke &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;kleding en zaalsportschoenen met een niet aflatende zool.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Mocht U besluiten om door te gaan met badminton kunt U een inschrijfformulier invullen op&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;de website&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De contributie loopt van september tot september en kan in twee termijnen worden betaald,&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;De eerste termijn dient in de eerste week van het nieuwe seizoen gestort te zijn,&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;zo niet mag er niet aan de trainingen worden deelgenomen. De vervaldatum van de tweede &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;termijn is 1 januari.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Daar het bondsjaar van de NBB van Januari tot en met december loopt heeft tussentijdse &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;opzegging&amp;nbsp; geen restitutie van de contributie tot gevolg. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Bij aanmelding, voor januari van het volgend seizoen&amp;nbsp; word het complete contributie bedrag&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;gerekend.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Bij aanmelding na december geld een half jaar contributie.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Opzegging van het lidmaatschap dient schriftelijk of via e mail te gebeuren bij het secretariaat.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Tussentijds wordt er alleen niet getraind als de sporthal gesloten is.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; Contributie:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Inschrijfgeld Jeugd/senioren&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; €&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&amp;nbsp;&amp;nbsp; 5.00&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Contributie jeugd tot 18 jaar &lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; €&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 150.00&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Contributie senioren&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; €&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 180.00&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;Contributie bijdrage: Per speler&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt; €&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 35.00 alleen voor comp spelers/sters senioren.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="@Arial Unicode MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUBBcmlhbCBVbmljb2RlIE1TBFNpemUCDgVDb2xvcgcI
+Y2xZZWxsb3cAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxp
+Z24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFD
+ZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50
+BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09w
+dGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1
+cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMTkgMCAwIDAgMA0KIEJD
+UyBJbmZvcm1hdGllOg0KVSBoZWVmdCBkZSBtb2dlbGlqa2hlaWQgb20gZHJpZSBrZWVyIGtvc3Rl
+bmxvb3MgZGVlbCB0ZSBuZW1lbiBhYW4gZGUgdHJhaW5pbmdlbi4gDQpFciB6aWpuIHNodXR0bGVz
+IGVuIHJhY2tldHMgYWFud2V6aWcsIFUgZGllbnQgZHVzIGFsbGVlbiB6b3JnIHRlIGRyYWdlbiB2
+b29yIGZhdHNvZW5saWprZSANCmtsZWRpbmcgZW4gemFhbHNwb3J0c2Nob2VuZW4gbWV0IGVlbiBu
+aWV0IGFmbGF0ZW5kZSB6b29sLg0KTW9jaHQgVSBiZXNsdWl0ZW4gb20gZG9vciB0ZSBnYWFuIG1l
+dCBiYWRtaW50b24ga3VudCBVIGVlbiBpbnNjaHJpamZmb3JtdWxpZXIgaW52dWxsZW4gb3ANCmRl
+IHdlYnNpdGUNCkRlIGNvbnRyaWJ1dGllIGxvb3B0IHZhbiBzZXB0ZW1iZXIgdG90IHNlcHRlbWJl
+ciBlbiBrYW4gaW4gdHdlZSB0ZXJtaWpuZW4gd29yZGVuIGJldGFhbGQsDQpEZSBlZXJzdGUgdGVy
+bWlqbiBkaWVudCBpbiBkZSBlZXJzdGUgd2VlayB2YW4gaGV0IG5pZXV3ZSBzZWl6b2VuIGdlc3Rv
+cnQgdGUgemlqbiwNCnpvIG5pZXQgbWFnIGVyIG5pZXQgYWFuIGRlIHRyYWluaW5nZW4gd29yZGVu
+IGRlZWxnZW5vbWVuLiBEZSB2ZXJ2YWxkYXR1bSB2YW4gZGUgdHdlZWRlIA0KdGVybWlqbiBpcyAx
+IGphbnVhcmkuDQpEYWFyIGhldCBib25kc2phYXIgdmFuIGRlIE5CQiB2YW4gSmFudWFyaSB0b3Qg
+ZW4gbWV0IGRlY2VtYmVyIGxvb3B0IGhlZWZ0IHR1c3NlbnRpamRzZSANCm9wemVnZ2luZyAgZ2Vl
+biByZXN0aXR1dGllIHZhbiBkZSBjb250cmlidXRpZSB0b3QgZ2V2b2xnLiANCkJpaiBhYW5tZWxk
+aW5nLCB2b29yIGphbnVhcmkgdmFuIGhldCB2b2xnZW5kIHNlaXpvZW4gIHdvcmQgaGV0IGNvbXBs
+ZXRlIGNvbnRyaWJ1dGllIGJlZHJhZw0KZ2VyZWtlbmQuDQpCaWogYWFubWVsZGluZyBuYSBkZWNl
+bWJlciBnZWxkIGVlbiBoYWxmIGphYXIgY29udHJpYnV0aWUuDQpPcHplZ2dpbmcgdmFuIGhldCBs
+aWRtYWF0c2NoYXAgZGllbnQgc2NocmlmdGVsaWprIG9mIHZpYSBlIG1haWwgdGUgZ2ViZXVyZW4g
+YmlqIGhldCBzZWNyZXRhcmlhYXQuDQpUdXNzZW50aWpkcyB3b3JkdCBlciBhbGxlZW4gbmlldCBn
+ZXRyYWluZCBhbHMgZGUgc3BvcnRoYWwgZ2VzbG90ZW4gaXMuDQogQ29udHJpYnV0aWU6DQpJbnNj
+aHJpamZnZWxkIEpldWdkL3NlbmlvcmVuDQotMTIgMCAtMSAxIDAgMCAzDQozIDEgLTEgMSAwIDAN
+Cg0KLTEyIDAgLTEgMSAwIDAgMw0KMyAxIC0xIDEgMCAwDQoggA0KLTEyIDAgLTEgMSAwIDAgMw0K
+MyAxIC0xIDEgMCAwDQogICA1LjAwDQozIDEgMCAwIDAgMA0KQ29udHJpYnV0aWUgamV1Z2QgdG90
+IDE4IGphYXIgDQotMTIgMCAtMSAxIDAgMCAzDQotMTIgMCAtMSAxIDAgMCAzDQozIDEgLTEgMSAw
+IDANCiCAICAgICAxNTAuMDANCjMgMSAwIDAgMCAwDQpDb250cmlidXRpZSBzZW5pb3Jlbg0KLTEy
+IDAgLTEgMSAwIDAgMw0KMyAxIC0xIDEgMCAwDQoNCi0xMiAwIC0xIDEgMCAwIDMNCi0xMiAwIC0x
+IDEgMCAwIDMNCjMgMSAtMSAxIDAgMA0KIIAgICAgIDE4MC4wMA0KMyAxIDAgMCAwIDANCkNvbnRy
+aWJ1dGllIGJpamRyYWdlOiBQZXIgc3BlbGVyDQotMTIgMCAtMSAxIDAgMCAzDQozIDEgLTEgMSAw
+IDANCiCAICAgICAgIDM1LjAwIGFsbGVlbiB2b29yIGNvbXAgc3BlbGVycy9zdGVycyBzZW5pb3Jl
+bi4NCjMgMSAwIDAgMCAwDQoNCg==
+</rvf></Component></body></page><page id="p108288421" pageindex="8" name="Jeugd" pp="0" cp="0"><body generator="0" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="D:\Documenten\clipart\badminton-olympics-wallpapers.jpg" bgpreview="D:\Documenten\clipart\badminton-olympics-wallpapers.jpg" bgp="0" bgoutput="images/badminton-olympics-wallpapers.jpg" bgsoutput=""><Component type="2" id="text1" zorder="0" filename="text108525890" width="731" height="481" html="" left="4" top="0" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;Badminton Club Stadskanaal staat garant voor een leuk ontvangs van de jeugd.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;Ook als u puur voor de fun of gericht als competitie speler wil spelen, &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;bent u bij de bc aan het juiste adres. Onder een vakkundige begeleiding worden &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;de kneepjes van de badminton sport aan de jeugd bij gebracht.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;Dit gebeurd voor de jongste jeugd, vanaf 6 jaar om 18.30 en de&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;training duurt tot 20.00 uur. Bij voldoende aanbod bestaat de mogelijkheid&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;om competitie te spelen. We moeten minimaal 4 spelers per team hebben.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;De ouders dienen dan zelf er voor te zorgen dat de kinderen op tijd aanwezig&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;zijn, en er zal om toer beurt moeten worden gereden naar de uit wedstrijden.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" style="font-size:19px;"&gt;Voor meer informatie kunt u zich wenden tot de trainer of de jeugdcomissie.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;Badminton Club Stadskanaal staat garant voor een leuk ontvangs van de jeugd.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;Ook als u puur voor de fun of gericht als competitie speler wil spelen, &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;bent u bij de bc aan het juiste adres. Onder een vakkundige begeleiding worden &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;de kneepjes van de badminton sport aan de jeugd bij gebracht.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;Dit gebeurd voor de jongste jeugd, vanaf 6 jaar om 18.30 en de&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;training duurt tot 20.00 uur. Bij voldoende aanbod bestaat de mogelijkheid&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;om competitie te spelen. We moeten minimaal 4 spelers per team hebben.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;De ouders dienen dan zelf er voor te zorgen dat de kinderen op tijd aanwezig&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;zijn, en er zal om toer beurt moeten worden gereden naar de uit wedstrijden.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFF00" face="Bookman Old Style" class="ws14"&gt;Voor meer informatie kunt u zich wenden tot de trainer of de jeugdcomissie.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGEUJvb2ttYW4gT2xkIFN0eWxlBFNpemUCDgVDb2xvcgcI
+Y2xZZWxsb3cAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxp
+Z24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFD
+ZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50
+BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09w
+dGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1
+cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMTAgMCAwIDAgMA0KQmFk
+bWludG9uIENsdWIgU3RhZHNrYW5hYWwgc3RhYXQgZ2FyYW50IHZvb3IgZWVuIGxldWsgb250dmFu
+Z3MgdmFuIGRlIGpldWdkLg0KT29rIGFscyB1IHB1dXIgdm9vciBkZSBmdW4gb2YgZ2VyaWNodCBh
+bHMgY29tcGV0aXRpZSBzcGVsZXIgd2lsIHNwZWxlbiwgDQpiZW50IHUgYmlqIGRlIGJjIGFhbiBo
+ZXQganVpc3RlIGFkcmVzLiBPbmRlciBlZW4gdmFra3VuZGlnZSBiZWdlbGVpZGluZyB3b3JkZW4g
+DQpkZSBrbmVlcGplcyB2YW4gZGUgYmFkbWludG9uIHNwb3J0IGFhbiBkZSBqZXVnZCBiaWogZ2Vi
+cmFjaHQuDQpEaXQgZ2ViZXVyZCB2b29yIGRlIGpvbmdzdGUgamV1Z2QsIHZhbmFmIDYgamFhciBv
+bSAxOC4zMCBlbiBkZQ0KdHJhaW5pbmcgZHV1cnQgdG90IDIwLjAwIHV1ci4gQmlqIHZvbGRvZW5k
+ZSBhYW5ib2QgYmVzdGFhdCBkZSBtb2dlbGlqa2hlaWQNCm9tIGNvbXBldGl0aWUgdGUgc3BlbGVu
+LiBXZSBtb2V0ZW4gbWluaW1hYWwgNCBzcGVsZXJzIHBlciB0ZWFtIGhlYmJlbi4NCkRlIG91ZGVy
+cyBkaWVuZW4gZGFuIHplbGYgZXIgdm9vciB0ZSB6b3JnZW4gZGF0IGRlIGtpbmRlcmVuIG9wIHRp
+amQgYWFud2V6aWcNCnppam4sIGVuIGVyIHphbCBvbSB0b2VyIGJldXJ0IG1vZXRlbiB3b3JkZW4g
+Z2VyZWRlbiBuYWFyIGRlIHVpdCB3ZWRzdHJpamRlbi4NClZvb3IgbWVlciBpbmZvcm1hdGllIGt1
+bnQgdSB6aWNoIHdlbmRlbiB0b3QgZGUgdHJhaW5lciBvZiBkZSBqZXVnZGNvbWlzc2llLg0K
+</rvf></Component></body></page><page id="p3581421" pageindex="9" name="inschrijfformulier" pp="0" cp="0"><body bgoutput="" bgsoutput=""><Component type="12" id="html1" zorder="0" filename="html3647671" script="&lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSduKuOkzQVc5-yeXnv3K8d5hYIMOLw1rI5mJZXWY6D5Lp_WeQ/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;2266&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Laden…&lt;/iframe&gt;" width="1308" height="970" left="188" top="12" notlimitsize="0"/><Component type="2" id="text1" zorder="1" filename="text963282578" left="436" top="122" width="1065" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="168" linkurl="http://&lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSduKuOkzQVc5-yeXnv3K8d5hYIMOLw1rI5mJZXWY6D5Lp_WeQ/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;2266&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Laden…&lt;/iframe&gt;" lp="0" fp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Bookman Old Style" style="font-size:19px;"&gt;&amp;lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSduKuOkzQVc5-yeXnv3K8d5hYIMOLw1rI5mJZXWY6D5Lp_WeQ/viewform?embedded=true" width="640" height="2266" frameborder="0" marginheight="0" marginwidth="0"&amp;gt;Laden…&amp;lt;/iframe1&amp;gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Bookman Old Style" class="ws14"&gt;&amp;lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSduKuOkzQVc5-yeXnv3K8d5hYIMOLw1rI5mJZXWY6D5Lp_WeQ/viewform?embedded=true" width="640" height="2266" frameborder="0" marginheight="0" marginwidth="0"&amp;gt;Laden…&amp;lt;/iframe1&amp;gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQruAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhFCb29rbWFuIE9sZCBTdHlsZQRTaXplAg4AAC05IDIgMCAwIDIgMCAy
+DQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZw
+YW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIg
+MCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQo8aWZyYW1lIHNyYz0iaHR0cHM6Ly9kb2NzLmdv
+b2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZHVLdU9relFWYzUteWVYbnYzSzhkNWhZSU1PTHcx
+ckk1bUpaWFdZNkQ1THBfV2VRL3ZpZXdmb3JtP2VtYmVkZGVkPXRydWUiIHdpZHRoPSI2NDAiIGhl
+aWdodD0iMjI2NiIgZnJhbWVib3JkZXI9IjAiIG1hcmdpbmhlaWdodD0iMCIgbWFyZ2lud2lkdGg9
+IjAiPkxhZGVuhTwvaWZyYW1lMT4NCg==
+</rvf></Component></body></page></site>
